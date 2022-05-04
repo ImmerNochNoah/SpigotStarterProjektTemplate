@@ -1,0 +1,8 @@
+name: SpigotStarterProjekt
+main: de.immernochnoah.ssp.Main
+author: ImmerNochNoah
+version: 1.0
+
+commands:
+  hilfe:
+  ssp_reload:
